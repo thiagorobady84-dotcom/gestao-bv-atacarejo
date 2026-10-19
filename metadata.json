@@ -1,0 +1,6 @@
+{
+  "name": "DepósitoFlow - Gestão de Estoque para Bebidas",
+  "description": "Sistema integrado de controle de estoque para depósitos e distribuidoras de bebidas com leitura de código de barras, controle de lotes/validade, vasilhames retornáveis e exportação de relatórios.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
